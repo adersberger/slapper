@@ -53,3 +53,4 @@ for backwards-compatibility.
 ## Acknowledgement
 * Idea and initial implementation is by @sparky
 * This module was originally developed for Booking.com.
+* This is a fork from https://github.com/ikruglov/slapper
